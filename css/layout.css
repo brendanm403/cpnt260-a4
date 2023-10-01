@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+nav a {
+  padding: 1rem;
+  
+  color: #000;
+}
+
+nav ul {
+  display: flex;
+  gap: 1rem;
+}
+
+.desert-logo {
+  height: 60px;
+  width: 80px;
+}
+
+.site-title {
+  margin: 0;
+}
+
+.title-logo-container {
+  display: flex;
+  padding: 1rem;
+  
+  align-items: center;
+  gap: 1rem;
+  justify-content: center;
+}
+
+
+
