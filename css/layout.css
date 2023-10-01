@@ -48,7 +48,7 @@ nav a {
 
 nav ul {
   display: flex;
-  gap: 1rem;
+  margin: 0 1rem;
 }
 
 .desert-logo {
@@ -65,7 +65,6 @@ nav ul {
   padding: 1rem;
   
   align-items: center;
-  gap: 1rem;
   justify-content: center;
 }
 
