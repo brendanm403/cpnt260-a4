@@ -17,6 +17,7 @@ header {
 article p {
   max-width: 50ch;
   align-self:flex-start;
+  padding: 1rem;
 }
 
 .tour-info {
