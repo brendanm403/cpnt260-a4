@@ -1,9 +1,42 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 header {
   display: flex;
   
   align-items: center;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+
+
+
+article p {
+  max-width: 50ch;
+  align-self:flex-start;
+}
+
+.tour-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+footer {
+  flex-shrink: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+main {
+  flex: 1 0 auto; 
+}
+
+main h1 {
+  color: hsl(17, 81.9%, 50.2%);
 }
 
 nav a {
