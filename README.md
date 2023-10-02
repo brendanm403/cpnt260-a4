@@ -25,3 +25,8 @@ https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./3
 - [old amber](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Old_Amber_Sprite.png)
 - [dome fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Dome_Fossil_Sprite.png)
 - [skull fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Skull_Fossil_Sprite.png)
+- [armor](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Armor_Fossil_Sprite.png)
+- [cover fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Cover_Fossil_Sprite.png)
+- [plume fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Plume_Fossil_Sprite.png)
+- [jaw fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Jaw_Fossil_Sprite.png)
+- [sail fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Sail_Fossil_Sprite.png)
