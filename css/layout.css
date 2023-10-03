@@ -47,7 +47,17 @@ h1 {
 
 main h2, h3 {
   padding: 1rem;
-} 
+}
+
+h6 {
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+div > img {
+  display: block;
+  margin:  0 auto 1rem auto;
+}
 
 nav a {
   padding: 1rem;
@@ -104,5 +114,17 @@ nav ul {
   align-items:center;
   gap: 3rem 1rem;
   padding: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
+}
+
+.type-icon-container {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* overrides image styles */
+.type-icon {
+  width: 25px;
+  margin: 0;
 }
