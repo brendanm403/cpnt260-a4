@@ -6,7 +6,7 @@ body {
 }
 
 /* display font */
-h1, h2, h3 {
+h1, h2, h3, h6 {
   font-family: "Michroma", Arial, Helvetica, sans-serif;
   text-align: center;
 }
