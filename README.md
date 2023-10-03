@@ -35,3 +35,5 @@ https://css-tricks.com/couple-takes-sticky-footer/ css sticky footer
 - [](https://archives.bulbagarden.net/wiki/File:Psychic_icon_SwSh.png)
 - [](https://archives.bulbagarden.net/wiki/File:Rock_icon_SwSh.png)
 - [](https://archives.bulbagarden.net/wiki/File:Steel_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Water_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Dark_icon_SwSh.png)
