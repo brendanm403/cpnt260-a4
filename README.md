@@ -23,7 +23,7 @@ ADD THE FILES AND LINES!!
   - [flygon](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./330&lang=en&secretid=cc32e0d7fdae6d71ead7bdde16589f0a )
   - [sandile](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./551&lang=en&secretid=5663c09a1f6f97186ea977295729e00b) 
   - [gabite](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./444&lang=en&secretid=30662b3281aabefb43807f3e537f2183) 
-  -[hippowdon](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./450&lang=en&secretid=c5ca7ccd683347a9a2c162613cf73d1b) 
+  - [hippowdon](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./450&lang=en&secretid=c5ca7ccd683347a9a2c162613cf73d1b) 
   - [diglett](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./050&lang=en&secretid=e873139b022d62e23689239c8e23c3f2) 
   - [dwebble](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./557&lang=en&secretid=e0ecd4de13b13ea13f56249901745b55) 
   - [pupitar](https://www.pokencyclopedia.info/tools/spr-info.php?id=/gen5/ani_black-white/./247&lang=en&secretid=6850604830e68fb4d76ba93c5229707b) 
