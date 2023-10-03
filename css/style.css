@@ -21,6 +21,10 @@
   header {
     display: unset;
   }
+
+  h6 {
+    font-size: 12px;
+  }
   
   nav a {
     color: #fff;
