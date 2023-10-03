@@ -1,42 +1,43 @@
+/* allows for sticky footer */
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-
-
-/* article {
-  margin-bottom: 2rem;
-} */
-
 article p {
   max-width: 40ch;
-  align-self:flex-start;
   padding: 1rem;
 }
 
+/* container for both columns, each column is wrapped in a div making 2 flex items */
 .tour-info {
   display: flex;
+  padding: 1rem;
+
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 1rem;
 }
 
+/* sticky footer code, styling */
 footer {
   flex-shrink: 0;
+
   background-color: #000;
   color: #fff;
 }
 
+/* more sticky footer code */
 main {
   flex: 1 0 auto;
 }
 
+/* heading styles */
 h1 {
-  color: hsl(17, 81.9%, 50.2%);
-  padding: 1rem;
   margin-top: 5rem;
+  padding: 1rem;
+
+  color: hsl(17, 81.9%, 50.2%);
 }
 
 main h2, h3 {
@@ -44,24 +45,21 @@ main h2, h3 {
 }
 
 h6 {
-  margin-bottom: 1rem;
   margin-top: 0;
+  margin-bottom: 1rem;
 }
 
+/* centers all images */
 div > img {
   display: block;
   margin:  0 auto 1rem auto;
 }
 
-
-
-
-
+/* resizes svg logo */
 .desert-logo {
   height: 60px;
   width: 80px;
 }
-
 
 
 .title-logo-container {
@@ -73,14 +71,14 @@ div > img {
 }
 
 
-
-.safari-gallery {
+.gallery-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  margin-bottom: 5rem;
+  padding: 1rem;
+  
   align-items:center;
   gap: 3rem 1rem;
-  padding: 1rem;
-  margin-bottom: 5rem;
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .gallery-heading {
@@ -88,48 +86,42 @@ div > img {
 }
 
 .fossil-image {
-  width: 55px;
-  height: 55px;
   display: block;
+  height: 55px;
+  width: 55px;
 }
 
-.fossil-gallery {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  align-items:center;
-  gap: 3rem 1rem;
-  padding: 1rem;
-  margin-bottom: 5rem;
-}
-
+/* container for showing pokemon types */
 .type-icon-container {
   display: flex;
+  
   justify-content: center;
   gap: 0.5rem;
 }
 
-/* overrides image styles */
+/* overrides image styles on icons */
 .type-icon {
-  width: 25px;
   margin: 0;
+  width: 25px;
 }
 
+/* container for copyright info and logo and gifs in footer */
 footer div {
   display: flex;
   padding: 1rem;
+  
   align-items: center;
 }
 
 footer img, p {
-  margin-top: 0;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 /* font awesome sun icon */
 .fa-sun {
   color: #ff5e5e;
 }
-
 
 /* font awesome moon icon */
 .fa-moon {

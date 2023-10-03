@@ -1,3 +1,4 @@
+/* sets navigation styles on desktop */
 @media screen and (width >= 50rem) {
   nav a:hover {
     background-color: hsl(0, 0%, 0%);
@@ -17,15 +18,12 @@
   }
 }
 
+/* sets navigation styles/ adjusts footer text on mobile */
 @media screen and (width < 50rem) {
   header {
     display: unset;
   }
 
-  h6 {
-    font-size: 12px;
-  }
-  
   nav a {
     color: #fff;
     padding: 1rem 4rem;
@@ -49,6 +47,10 @@
     background-color: hsl(0, 0%, 30%);
   }
 
+  footer p {
+    font-size: 13px;
+  }
+
   .active-page {
     color: #fd876d;
 
@@ -56,6 +58,7 @@
   }
 }
 
+/* adjusts font sizes for smaller mobile displays */
 @media screen and (width < 390px) {
   h2 {
     font-size: 23px;
