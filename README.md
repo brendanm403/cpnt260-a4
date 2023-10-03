@@ -25,3 +25,13 @@ https://css-tricks.com/couple-takes-sticky-footer/ css sticky footer
 - [plume fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Plume_Fossil_Sprite.png)
 - [jaw fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Jaw_Fossil_Sprite.png)
 - [sail fossil](https://bulbapedia.bulbagarden.net/wiki/File:Dream_Sail_Fossil_Sprite.png)
+
+- [](https://archives.bulbagarden.net/wiki/File:Bug_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Dragon_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Flying_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Grass_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Ground_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Ice_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Psychic_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Rock_icon_SwSh.png)
+- [](https://archives.bulbagarden.net/wiki/File:Steel_icon_SwSh.png)
