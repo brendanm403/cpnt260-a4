@@ -59,13 +59,27 @@
 }
 
 /* adjusts font sizes for smaller mobile displays */
-@media screen and (width < 390px) {
+@media screen and (width < 391px) {
   h2 {
     font-size: 23px;
   }
 
   nav li {
     font-size: 18px;
+  }
+
+  h6 {
+    font-size: 11px;
+  }
+
+  .gallery-grid {
+    display: grid;
+    margin-bottom: 5rem;
+    padding: 1rem;
+    
+    align-items:center;
+    gap: 3rem 1rem;
+    grid-template-columns: repeat(4, 75px);
   }
 }
 
