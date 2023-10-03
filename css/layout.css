@@ -4,14 +4,7 @@ body {
   min-height: 100vh;
 }
 
-header {
-  display: flex;
-  
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  border-bottom: 3px solid #000;
-}
+
 
 /* article {
   margin-bottom: 2rem;
@@ -60,25 +53,16 @@ div > img {
   margin:  0 auto 1rem auto;
 }
 
-nav a {
-  padding: 1rem;
-  
-  color: #000;
-}
 
-nav ul {
-  display: flex;
-  margin: 0 1rem;
-}
+
+
 
 .desert-logo {
   height: 60px;
   width: 80px;
 }
 
-.site-title {
-  margin: 0;
-}
+
 
 .title-logo-container {
   display: flex;
@@ -139,4 +123,15 @@ footer div {
 footer img, p {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+/* font awesome sun icon */
+.fa-sun {
+  color: #ff5e5e;
+}
+
+
+/* font awesome moon icon */
+.fa-moon {
+  color: #0000a0;
 }

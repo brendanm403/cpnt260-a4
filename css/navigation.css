@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-bottom: 3px solid #000;
+}
+
+nav a {
+  padding: 1rem;
+  
+  color: #000;
+}
+
+nav ul {
+  display: flex;
+  margin: 0 1rem;
+}
+
+.site-title {
+  margin: 0;
+}
