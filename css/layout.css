@@ -72,6 +72,10 @@ footer img, p {
   justify-content: center;
 }
 
+.site-title {
+  margin: 0;
+}
+
 /* resizes svg logo */
 .desert-logo {
   height: 60px;
