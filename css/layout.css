@@ -134,6 +134,7 @@ footer img, p {
   border-radius: 1rem;
 }
 
+/* glowing h1 code */
 .glow {
   padding: 1rem;
   width: fit-content;
@@ -149,6 +150,7 @@ footer img, p {
   animation: glow 1s ease-in-out infinite alternate;
 }
 
+/* glowing h1 code */
 @keyframes glow {
   from {
     text-shadow: 0 0 10px hsl(0, 88%, 30%), 0 0 20px hsl(0, 88%, 30%), 0 0 30px hsl(0, 88%, 30%), 0 0 40px hsl(0, 88%, 30%), 0 0 50px hsl(0, 88%, 30%), 0 0 60px hsl(0, 88%, 30%), 0 0 70px hsl(0, 88%, 30%);
