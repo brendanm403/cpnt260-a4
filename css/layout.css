@@ -81,7 +81,7 @@ footer img, p {
 
 /* font awesome moon icon */
 .fa-moon {
-  color: #0000a0;
+  color: hsl(240, 100%, 83%);;
 }
 
 /* container for both columns, each column is wrapped in a div making 2 flex items */
@@ -127,6 +127,13 @@ footer img, p {
   width: 25px;
 }
 
+/* gives subheadings black background, rounded border */
+.tour-heading {
+  background-color: #000;
+  color: #fff;
+  border-radius: 1rem;
+}
+
 .glow {
   padding: 1rem;
   width: fit-content;
@@ -142,7 +149,7 @@ footer img, p {
   animation: glow 1s ease-in-out infinite alternate;
 }
 
-@-webkit-keyframes glow {
+@keyframes glow {
   from {
     text-shadow: 0 0 10px hsl(0, 88%, 30%), 0 0 20px hsl(0, 88%, 30%), 0 0 30px hsl(0, 88%, 30%), 0 0 40px hsl(0, 88%, 30%), 0 0 50px hsl(0, 88%, 30%), 0 0 60px hsl(0, 88%, 30%), 0 0 70px hsl(0, 88%, 30%);
   }
