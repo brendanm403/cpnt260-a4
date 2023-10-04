@@ -10,8 +10,8 @@
 - search terms: css sticky footer
 
 ## Above and Beyond
-- Incorporated inline SVG 
-ADD THE FILES AND LINES!!
+- Incorporated inline SVG (index.html line 23, 252)
+
 
 ## Attributions 
 
