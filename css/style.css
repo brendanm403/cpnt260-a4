@@ -59,7 +59,7 @@
 }
 
 /* adjusts font sizes for smaller mobile displays */
-@media screen and (width < 391px) {
+@media screen and (width < 421px) {
   h2 {
     font-size: 23px;
   }
@@ -73,12 +73,6 @@
   }
 
   .gallery-grid {
-    display: grid;
-    margin-bottom: 5rem;
-    padding: 1rem;
-    
-    align-items:center;
-    gap: 3rem 1rem;
     grid-template-columns: repeat(3, 1fr);
   }
 }
