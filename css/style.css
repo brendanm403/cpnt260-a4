@@ -68,10 +68,6 @@
     font-size: 18px;
   }
 
-  footer p {
-    text-align: center;
-  }
-
   .gallery-grid {
     grid-template-columns: repeat(3, 1fr);
   }
