@@ -2,8 +2,9 @@
 - brendan malycky
 - [github page](https://brendanm403.github.io/cpnt260-a4/)
 
-## Context
+## Notes
 - Im sticking with the same pokemon theme i did from assignment 3.
+- I did not add hover effects over the links on the mobile display because I assumed if they are on mobile they will be using a touch screen.
 
 ## Helpful Resource
 - [sticky footer resource](https://css-tricks.com/couple-takes-sticky-footer/)
@@ -56,3 +57,7 @@
   - [steel icon](https://archives.bulbagarden.net/wiki/File:Steel_icon_SwSh.png)
   - [water icon](https://archives.bulbagarden.net/wiki/File:Water_icon_SwSh.png)
   - [dark icon](https://archives.bulbagarden.net/wiki/File:Dark_icon_SwSh.png)
+
+  ### Code
+  - [glowing text](https://www.w3schools.com/howto/howto_css_glowing_text.asp)
+  - [sticky footer](https://css-tricks.com/couple-takes-sticky-footer/)
